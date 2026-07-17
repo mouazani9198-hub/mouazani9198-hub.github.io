@@ -1,12 +1,1 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.mouazani9198_hub.twa",
-      "sha256_cert_fingerprints": [
-        "A4:B1:37:51:E2:12:EA:61:0C:FB:C1:D2:C7:AE:9C:09:88:42:6F:3E:08:95:8D:09:CE:AA:AA:8D:1C:4F:D1:85"
-      ]
-    }
-  }
-]
+
